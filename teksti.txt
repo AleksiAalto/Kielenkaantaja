@@ -1,0 +1,9 @@
+Tekstieditori eli tekstinmuokkain on tietokoneohjelma, 
+joka on tarkoitettu puhtaan tekstin kirjoittamiseen ja muokkaamiseen. 
+Tekstinkäsittelyohjelmista poiketen tekstieditoreissa ei yleensä ole muotoiluominaisuuksia.
+
+Tekstinmuokkaimia käytetään muun muassa asetustiedostojen
+sekä ohjelmoinnissa lähdekoodin muokkaamiseen. 
+Useimpien käyttöjärjestelmien mukana tulee jonkinlainen tekstieditori, 
+ja esimerkiksi Unix-järjestelmissä tekstieditori on yksi 
+tärkeimmistä ohjelmista järjestelmän ylläpitotoiminnoissa.
