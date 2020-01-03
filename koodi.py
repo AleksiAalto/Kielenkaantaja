@@ -15,3 +15,4 @@ try:
                                     #teksti-ja.txt
 except FileNotFoundError as e:
     print('Onko luettava tekstitiedosto olemassa samassa kansiossa?')
+    
